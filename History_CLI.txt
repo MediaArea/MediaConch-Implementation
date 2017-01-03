@@ -7,6 +7,11 @@ x Correction
 bug reports and feature request are here :
 https://github.com/MediaArea/MediaConch_SourceCode
 
+Version 16.12, 2016-12-31
+-------------
+Better handling of errors
+Fixes
+
 Version 16.11, 2016-11-30
 -------------
 MediaTrace optimization for Matroska
@@ -126,7 +131,6 @@ Version 15.08, 2015-08-31
 -------------
 Improved FFV1 slice analysis
 Trace feature: XML malformed with Flags items (hotfix, flags meaning disabled in XML output)
-Trace feature: XML malformed with some MP4 files
 Trace feature: XML duplicated attributes
 Trace feature: versioned xsd, creating library name and version
 

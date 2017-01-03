@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=mediaconch-gui.desktop
+Name=mediaconch-implementation-gui.desktop
 ServiceTypes=audio/*,video/*,image/*,application/x-flash-video
-Actions=mediaconch-gui
+Actions=mediaconch-implementation-gui
 X-KDE-Priority=TopLevel
 Keywords=implementation;policy;checker;reporter;trace;mkv;matroska;ffv1;pcm;
 
-[Desktop Action mediaconch-gui]
-Name=MediaConch
-GenericName=MediaConch
-Exec=mediaconch-gui %u
-Icon=mediaconch
+[Desktop Action mediaconch-implementation-gui]
+Name=MediaConch-Implementation
+GenericName=MediaConch-Implementation
+Exec=mediaconch-implementation-gui %u
+Icon=mediaconch-implementation
